@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\vue.js\\blog"
+	},
+	{
+		"path": "..\\..\\vue.js\\project1"
+	},
+	{
+		"path": "..\\..\\회사"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
+}
